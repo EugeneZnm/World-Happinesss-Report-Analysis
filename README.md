@@ -19,9 +19,9 @@ The regions where citizens have the highest levels of freedom are Australia and 
 
 Other than Dystopia residual, the factors that greatly influence happiness scores are Family and Economy (GDP per Capita) at relatively equal proportion, followed by Health, Freedom, Generosity, and Trust in Government/Government corruption levels.
 
-<img src="download(3).png" alt="Image of number of injuries"/>
+<img src="download (3).png" alt="Image of number of injuries"/>
 
 The regions where citizens have the highest levels of freedom are Australia and New Zealand, North America, which  are also the regions with the highest happines scores. The regions with the lowest levels of freedom are Central and Eastern Europe and the Middle East and Northern Africa, Sub-Saharan Africa, and Southern Asia, and happen to be regions with lower happiness levels.
 
-<img src="download(1).png" alt="Image of number of injuries"/>
+<img src="download (1).png" alt="Image of number of injuries"/>
 
